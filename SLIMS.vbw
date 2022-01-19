@@ -1,0 +1,12 @@
+frmMain = 706, 4, 1411, 918, I, 0, 687, 488, 916, CI
+frmDisplayStudentList = 0, 0, 1207, 918, , 488, 687, 976, 916, C
+frmAddNewStudent = 1232, 612, 1848, 918, C, 976, 458, 1464, 687, C
+frmAddNewProgramme = 1232, 306, 1848, 612, C, 976, 687, 1464, 916, C
+frmUpdateStudentData = 1116, 549, 1488, 732, C, 0, 0, 488, 229, C
+frmUpdateProgrammeData = 1116, 366, 1488, 549, C, 0, 229, 488, 458, C
+frmDisplayProgrammeList = 600, 3, 1372, 923, C, 976, 0, 1464, 229, C
+frmLoanApplication = 0, 459, 616, 918, C, 488, 458, 976, 687, C
+frmDisplayActiveLoanApplications = 0, 0, 705, 918, C, 976, 229, 1464, 458, C
+frmLoanTermination = 1232, 0, 1848, 306, C, 488, 229, 976, 458, C
+frmSplash = 0, 0, 1408, 915, C, 0, 458, 488, 687, C
+frmLogin = 618, 0, 1408, 918, C, 488, 0, 976, 229, C
